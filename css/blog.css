@@ -377,7 +377,7 @@ input[type="submit"] {
 }
 
 .responsive-image {
-	border-radius: 40%;
+    border-radius: 40%;
     max-width: 100%;
     height: auto;
     padding-top:50px;
